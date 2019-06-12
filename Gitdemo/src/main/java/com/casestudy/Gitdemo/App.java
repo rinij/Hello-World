@@ -19,4 +19,8 @@ public class App {
 	public void firstTest(){
 		System.out.println("Hello World");
 	}
+	
+	public void demoTest(){
+		System.out.println("Demo Hello World");
+	}
 }
