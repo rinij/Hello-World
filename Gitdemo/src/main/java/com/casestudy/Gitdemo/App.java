@@ -15,4 +15,8 @@ public class App {
 		System.out.println("Addition=" + c);
 		//test 123
 	}
+	
+	public void demoTest(){
+		System.out.println("Demo Hello World");
+	}
 }
