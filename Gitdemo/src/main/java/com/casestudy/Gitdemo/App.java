@@ -16,7 +16,7 @@ public class App {
 		//test 123
 	}
 	
-	public void firstTest(){
+	public void firstTest1(){
 		System.out.println("Hello World");
 	}
 	
