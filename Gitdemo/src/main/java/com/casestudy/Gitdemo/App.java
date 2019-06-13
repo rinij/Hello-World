@@ -16,11 +16,10 @@ public class App {
 		//test 123
 	}
 	
-	public void firstTest1(){
+	public void reproduceconflict(){
 		System.out.println("Hello World");
 	}
 	
-	public void demoTest(){
-		System.out.println("Demo Hello World");
+	
 	}
-}
+
